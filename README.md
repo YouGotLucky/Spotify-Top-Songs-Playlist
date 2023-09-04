@@ -48,4 +48,3 @@ elif len(top_tracks['items']) == 0:
     print("No playlist created as you have no top tracks.")
 else:
     print("No playlist created. Done!")
-```
